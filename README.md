@@ -112,7 +112,7 @@ list.saveTasks();          // Saves to JSON
 ---
 
 ## 🔗 **Links**  
-- [GitHub Repository](https://github.com/DankAlighieri/TaskTrackerCLI/tree/main)  
+- GitHub Repository: https://github.com/DankAlighieri/TaskTrackerCLI/tree/main  
 - [Java Docs](https://docs.oracle.com/en/java/)  
 
 --- 
